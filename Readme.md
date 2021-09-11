@@ -6,6 +6,8 @@ Symbioz est un émulateur pour DOFUS version 2.38, programmé en C# .NET 4.5.
 ## (Message de Vlad) 
 Salut les gars je me suis remis à Dofus j'ai fait un peu de CPP pendant les vancances du coup je fais un peu de C#, et quoi de mieux que de regrouper Dofus et le C# avec l'emu de Skinz et Luaxy. Je ferais des changelog surement de l'avancement
 
+Discord pour les news : https://discord.gg/R4Gm3x9Xxf
+
 
 
 
