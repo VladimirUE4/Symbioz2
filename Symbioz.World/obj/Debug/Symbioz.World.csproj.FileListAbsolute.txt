@@ -200,3 +200,7 @@ C:\Users\jocel\Desktop\Symbioz-2.38-master\Symbioz.World\obj\Debug\Symbioz.World
 C:\Users\jocel\Desktop\Symbioz-2.38-master\Symbioz.World\obj\Debug\Symbioz.World.csproj.CopyComplete
 C:\Users\jocel\Desktop\Symbioz-2.38-master\Symbioz.World\obj\Debug\Symbioz.World.exe
 C:\Users\jocel\Desktop\Symbioz-2.38-master\Symbioz.World\obj\Debug\Symbioz.World.pdb
+C:\Users\jocel\Desktop\Symbioz-2.38-master\Symbioz\Symbioz.World\obj\Debug\Symbioz.World.csprojAssemblyReference.cache
+C:\Users\jocel\Desktop\Symbioz-2.38-master\Symbioz\Symbioz.World\obj\Debug\Symbioz.World.csproj.CoreCompileInputs.cache
+C:\Users\jocel\Desktop\Symbioz-2.38-master\Symbioz\Symbioz.World\obj\Debug\Symbioz.World.exe
+C:\Users\jocel\Desktop\Symbioz-2.38-master\Symbioz\Symbioz.World\obj\Debug\Symbioz.World.pdb
