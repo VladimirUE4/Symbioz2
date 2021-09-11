@@ -113,15 +113,6 @@ namespace Symbioz.World.Providers.Items
             character.Record.Stats.Strength.Objects -= delta;
         }
 
-        [ItemEffect(EffectsEnum.Effect_SubFire)]
-        public static void SubFire(Character character, short delta)
-        {
-            character.Record.Stats.Fire.Objects -= delta;
-        }
-
-
-
-
         [ItemEffect(EffectsEnum.Effect_AddWisdom)]
         public static void AddWisdom(Character character, short delta)
         {
@@ -247,6 +238,20 @@ namespace Symbioz.World.Providers.Items
             character.Record.Stats.PvPAirResistPercent.Objects -= delta;
         }
 
+        //pvp test
+        [ItemEffect(EffectsEnum.Effect_AddPvpNeutralElementReduction)]
+        public static void PvpNeutralElementReduction(Character character, short delta)
+        {
+            character.Record.Stats.PvpNeutralElementReduction.Objects += delta;
+            Console.Write(PvpNeutralElementReduction);
+        }
+
+
+        /*[ItemEffect(EffectsEnum.Effect_AddPvpNeutralElementReduction)]
+        public static void NeutralPvpElementReduction(Character character, short delta)
+        {
+            character.Record.Stats.NeutralPvpReduction.Objects += delta;
+        }*/
 
 
 
